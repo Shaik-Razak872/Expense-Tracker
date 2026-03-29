@@ -66,7 +66,10 @@ npm run dev
 
 ## 📊 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+<img width="759" height="429" alt="image" src="https://github.com/user-attachments/assets/b32528f6-ba3f-44b4-8821-6e7ccf4368b4" />
+
+<img width="795" height="448" alt="image" src="https://github.com/user-attachments/assets/f0aea526-6f61-44d1-97cc-a9911d124e32" />
+
 
 ---
 
